@@ -10,8 +10,9 @@
 ![](/Images/2.png)
 
 #### Setup Files
-To use the web control panel, you need to download the source web, get it from this [link]{}
-To play the game, you need to download the the source file, get it from this [link]{}
+To use the web control panel, you need to download the source web, get it from this [link]()
+
+To play the game, you need to download the the source file, get it from this [link]()
 
 
 
